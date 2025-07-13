@@ -45,6 +45,7 @@
   <img width="0" />
         <img src="https://img.icons8.com/?size=100&id=40604&format=png&color=000000" height="42" alt="davinciresolve logo"  />
         <img src="https://img.icons8.com/?size=100&id=Kwms9QBiZhG2&format=png&color=000000" height="42" alt="cursor logo"  />
+  <img width="0" />
         <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" height="42" alt="canva logo"  />
 </div>
 
