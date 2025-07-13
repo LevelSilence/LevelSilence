@@ -45,6 +45,8 @@
         <img src="https://img.icons8.com/?size=100&id=Kwms9QBiZhG2&format=png&color=000000" height="42" alt="cursor logo"  />
         <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" height="42" alt="canva logo"  />
         <img src="https://skillicons.dev/icons?i=discord" height="42" alt="discord logo"  />
+        <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
+        <img src="https://skillicons.dev/icons?i=github" height="42" alt="vscode logo"  />
 </div>
 
 ---
