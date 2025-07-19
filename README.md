@@ -21,8 +21,6 @@
   <img width="0" />
         <img src="https://skillicons.dev/icons?i=git" height="42"   alt="git logo"  />
   <img width="0" />
-        <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
-  <img width="0" />
         <img src="https://skillicons.dev/icons?i=mongo" height="42" alt="mongo logo"  />
   <img width="0" />
         <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
