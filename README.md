@@ -1,9 +1,9 @@
 # Hi 👋, I'm Yuvaraj Ragothaman
 ---
 
-<div id="header" align="center">
-    <img align="center" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-</div>
+<!-- <div id="header" align="center">
+<img align="center" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+</div> -->
 
 ## About Me
 > I'm a student at Indian Institue of Information Technology, Allahabad🎓  
