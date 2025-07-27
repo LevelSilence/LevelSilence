@@ -9,6 +9,7 @@
 > I'm a student at Indian Institue of Information Technology, Allahabad🎓  
 > Tech Enthusiast
 
+[Know more about me](https://hareesh.web.app/)
 
 ### Tools & Languages
 <div align="center">
