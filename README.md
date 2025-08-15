@@ -46,6 +46,8 @@
         <img src="https://skillicons.dev/icons?i=discord" height="42" alt="discord logo"  />
         <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
         <img src="https://skillicons.dev/icons?i=github" height="42" alt="vscode logo"  />
+        <img src="https://skillicons.dev/icons?i=photoshop" height="42" alt="ps"  />
+        <img src="https://skillicons.dev/icons?i=aftereffects" height="42" alt="ae"  />
 </div>
 
 ---
