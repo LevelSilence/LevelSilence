@@ -1,10 +1,6 @@
 # Hi 👋, I'm Yuvaraj Ragothaman
----
 
-<!-- <div id="header" align="center">
-<img align="center" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-</div> -->
-
+<img align="center" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 ## About Me
 > I'm a student at Indian Institue of Information Technology, Allahabad🎓  
 > Tech Enthusiast
@@ -48,6 +44,7 @@
         <img src="https://skillicons.dev/icons?i=github" height="42" alt="vscode logo"  />
         <img src="https://skillicons.dev/icons?i=photoshop" height="42" alt="ps"  />
         <img src="https://skillicons.dev/icons?i=aftereffects" height="42" alt="ae"  />
+  
 </div>
 
 ---
@@ -55,6 +52,9 @@
 <div id = "badges" align = "center">
   <a href = "https://www.linkedin.com/in/yuvaraj-ragothaman/">
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+    </a>
+  <a href = "https://yuvaraj.web.app">
+  <img src = "https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)">
     </a>
   <a href = "ryuvaraj512005@gmail.com">
   <img src = "https://img.shields.io/badge/GMail-red?logo=gmail&logoColor=white&style=for-the-badge">
