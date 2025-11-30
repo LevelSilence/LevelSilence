@@ -1,4 +1,6 @@
-# Hi 👋, I'm Yuvaraj Ragothaman
+<h2 id="header" align="center">
+    Hi 👋, I'm Yuvaraj Ragothaman
+</h2>
 
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="200"/>
