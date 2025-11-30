@@ -1,6 +1,8 @@
 # Hi 👋, I'm Yuvaraj Ragothaman
 
-<img align="center" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="200"/>
+</div>
 
 
 ## About Me
