@@ -74,7 +74,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LevelSilence&theme=dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LevelSilence&theme=dark)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevelSilence&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+ 
 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=LevelSilence&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /> -->
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=LevelSilence&theme=darkhub" alt="Trophy" /> -->
